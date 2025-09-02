@@ -3,7 +3,7 @@
 # GBA-UBF
 This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Grained Building Function Classification Dataset in the Greater Bay Area".
 
-**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities (**Guangzhou, Shenzhen, Zhongshan, Zhuhai, Foshan, HongKong**) with five unified classes: **Residential, Commercial, Public Services, Technology and Industry, Educational and Cultural**.
+**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities (**Guangzhou, Shenzhen, Zhongshan, Zhuhai, Foshan, HongKong SAR**) with five unified classes: **Residential, Commercial, Public Services, Technology and Industry, Educational and Cultural**.
 
 ## GBA-UBF Preview
 <p align="center">
@@ -29,23 +29,23 @@ Please enjoy this dataset we have provided. Click [here](demo/) to view one exam
 dataset
 |--GBA-UBF
 |  |--Guangzhou_1
-|  |  |--Residential.shp
-|  |  |--Commercial.shp
-|  |  |--Public_Services.shp
-|  |  |--Technology_Industry.shp
-|  |  |--Educational_Cultural.shp
+|  |  |--Residential_shp
+|  |  |--Commercial_shp
+|  |  |--Public_Services_shp
+|  |  |--Technology_Industry_shp
+|  |  |--Educational_Cultural_shp
 |  |--Shenzhen_1
-|  |  |--Residential.shp
-|  |  |--Commercial.shp
-|  |  |--Public_Services.shp
-|  |  |--Technology_Industry.shp
-|  |  |--Educational_Cultural.shp
+|  |  |--Residential_shp
+|  |  |--Commercial_shp
+|  |  |--Public_Services_shp
+|  |  |--Technology_Industry_shp
+|  |  |--Educational_Cultural_shp
 ...
 ````
 Each shapefile also contains building height information.
 
 ## Organizations
 <p align="center">
-  <img src="logo/SYSU.jpg" alt="SYSU" width="300"/>
+  <img src="logo/SYSU.png" alt="SYSU" width="300"/>
   <img src="logo/SGES.png" alt="SGES" width="500"/>
 </p>
