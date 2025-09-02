@@ -1,9 +1,9 @@
 ![Logo](logo/GBA-UBF.png)
 
 # GBA-UBF
-This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Grained Building Function Classification Dataset in the Greater Bay Area".
+This is the Dataset of the **Greater Bay Area Urban Building Function** (**GBA-UBF**) proposed by our paper "A Large-Scale and Fine-Grained Building Function Classification Dataset in the Greater Bay Area".
 
-**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities (**Guangzhou, Shenzhen, Zhongshan, Zhuhai, Foshan, HongKong SAR**) with five unified classes: **Residential, Commercial, Public Services, Technology and Industry, Educational and Cultural**.
+**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities (**Guangzhou**, **Shenzhen**, **Zhongshan**, **Zhuhai**, **Foshan**, **HongKong SAR**) with five unified classes: **Residential**, **Commercial**, **Public Services**, **Technology and Industry**, **Educational and Cultural**.
 
 ## GBA-UBF Preview
 <p align="center">
