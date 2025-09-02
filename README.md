@@ -7,16 +7,23 @@ This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Gra
 
 ## GBA-UBF Preview
 <p align="center">
-  <img src="picture/overallshow.png" alt="GBA-UBF Preview" width="600"/><br>
+  <img src="pictures/overallshow.png" alt="GBA-UBF Preview" width="600"/><br>
   <em>Figure 1. A preview of the GBA-UBF dataset.</em>
 </p>
 
 <p align="center">
-  <img src="picture/3d.png" alt="GBA-UBF 3D Visualisation" width="600"/><br>
+  <img src="pictures/3d.png" alt="GBA-UBF 3D Visualisation" width="600"/><br>
   <em>Figure 2. Representative GBA-UBF Dataset 3D Visualization and Corresponding Shapefile Overlay with High-Resolution Remote Sensing Imagery across six cities.</em>
 </p>
 
 <p align="center">
-  <img src="picture/com.png" alt="Comparison of GBA-UBF with Existing Land Use Datasets" width="600"/><br>
+  <img src="pictures/com.png" alt="Comparison of GBA-UBF with Existing Land Use Datasets" width="600"/><br>
   <em>Figure 3. The Comparison between the GBA-UBF Dataset and EULUC-China Dataset.</em>
+</p>
+
+
+## Organizations
+<p align="center">
+  <img src="SYSU.jpg" alt="SYSU" width="300"/>
+  <img src="SGES.jpg" alt="SGES" width="300"/>
 </p>
