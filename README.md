@@ -22,7 +22,7 @@ This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Gra
 </p>
 
 ## Dataset Download
-Please enjoy this dataset we have provided. Click [here](demo/) to view small examples.
+Please enjoy this dataset we have provided. Click [here](demo/) to view one examples of the study aera in Guangzhou.
 
 ## Dataset structure
 ````
@@ -47,5 +47,5 @@ Each shapefile also contains building height information.
 ## Organizations
 <p align="center">
   <img src="logo/SYSU.jpg" alt="SYSU" width="300"/>
-  <img src="logo/SGES.png" alt="SGES" width="600"/>
+  <img src="logo/SGES.png" alt="SGES" width="500"/>
 </p>
