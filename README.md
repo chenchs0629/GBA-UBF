@@ -3,7 +3,7 @@
 # GBA-UBF
 This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Grained Building Function Classification Dataset in the Greater Bay Area".
 
-**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities with five unified classes: **Residential, Commercial, Public Services, Technology &amp; Industry, Educational &amp; Cultural**.
+**GBA-UBF** a building-level function dataset for **the Guangdong–Hong Kong–Macao Greater Greater Bay Area**. GBA-UBF provides **city-wide**, **building-scale** labels that overcome the coarse granularity of parcel maps. It covers 4 million buildings across six core GBA cities (**Guangzhou, Shenzhen, Zhongshan, Zhuhai, Foshan, HongKong**) with five unified classes: **Residential, Commercial, Public Services, Technology and Industry, Educational and Cultural**.
 
 ## GBA-UBF Preview
 <p align="center">
@@ -21,9 +21,31 @@ This is the Dataset of GBA-UBF proposed by our paper "A Large-Scale and Fine-Gra
   <em>Figure 3. The Comparison between the GBA-UBF Dataset and EULUC-China Dataset.</em>
 </p>
 
+## Dataset Download
+Please enjoy this dataset we have provided. Click [here](demo/) to view small examples.
+
+## Dataset structure
+````
+dataset
+|--GBA-UBF
+|  |--Guangzhou_1
+|  |  |--Residential.shp
+|  |  |--Commercial.shp
+|  |  |--Public_Services.shp
+|  |  |--Technology_Industry.shp
+|  |  |--Educational_Cultural.shp
+|  |--Shenzhen_1
+|  |  |--Residential.shp
+|  |  |--Commercial.shp
+|  |  |--Public_Services.shp
+|  |  |--Technology_Industry.shp
+|  |  |--Educational_Cultural.shp
+...
+````
+Each shapefile also contains building height information.
 
 ## Organizations
 <p align="center">
   <img src="logo/SYSU.jpg" alt="SYSU" width="300"/>
-  <img src="logo/SGES.png" alt="SGES" width="300"/>
+  <img src="logo/SGES.png" alt="SGES" width="600"/>
 </p>
