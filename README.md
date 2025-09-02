@@ -31,15 +31,15 @@ dataset
 |  |--Guangzhou_1
 |  |  |--Residential_shp
 |  |  |--Commercial_shp
-|  |  |--Public_Services_shp
-|  |  |--Technology_Industry_shp
-|  |  |--Educational_Cultural_shp
+|  |  |--PublicServices_shp
+|  |  |--TechnologyIndustry_shp
+|  |  |--EducationalCultural_shp
 |  |--Shenzhen_1
 |  |  |--Residential_shp
 |  |  |--Commercial_shp
-|  |  |--Public_Services_shp
-|  |  |--Technology_Industry_shp
-|  |  |--Educational_Cultural_shp
+|  |  |--PublicServices_shp
+|  |  |--TechnologyIndustry_shp
+|  |  |--EducationalCultural_shp
 ...
 ````
 Each shapefile also contains building height information.
