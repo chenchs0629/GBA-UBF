@@ -47,5 +47,5 @@ Each shapefile also contains building height information.
 ## Organizations
 <p align="center">
   <img src="logo/SYSU.png" alt="SYSU" width="300"/>
-  <img src="logo/SGES.png" alt="SGES" width="500"/>
+  <img src="logo/SGES_2.png" alt="SGES" width="500"/>
 </p>
