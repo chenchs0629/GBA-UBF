@@ -29,12 +29,16 @@ Please enjoy this dataset we have provided. Click [here](demo/) to view one exam
 dataset
 |--GBA-UBF
 |  |--Guangzhou_1
+|  |  |--<imageGZ>.<ImageFormat>
+|  |  |--<DSM_GZ>.<TIF>
 |  |  |--Residential_shp
 |  |  |--Commercial_shp
 |  |  |--PublicServices_shp
 |  |  |--TechnologyIndustry_shp
 |  |  |--EducationalCultural_shp
 |  |--Shenzhen_1
+|  |  |--<imageSZ>.<ImageFormat>
+|  |  |--<DSM_SZ>.<TIF>
 |  |  |--Residential_shp
 |  |  |--Commercial_shp
 |  |  |--PublicServices_shp
@@ -43,6 +47,10 @@ dataset
 ...
 ````
 Each shapefile also contains building height information.
+
+
+## Dataset construct and LAGraph-PolyCMX method
+Please locate the code for generating true value data for urban building functional class in [folder construct_GT/](pipeline/construct_GBA-UBF/construct_GT/) and generating DSM data in [folder generateDSM/](pipeline/construct_GBA-UBF/generateDSM/). The code for the LAGraph framework can be found in [folder LAGraph/](pipeline/LAGraph/). For PolyCMX code, please refer to the Pix2Poly and CMX code sections. The other code in [folder pipeline/](pipeline/) is used for Data preprocessing.
 
 ## Organizations
 <p align="center">
