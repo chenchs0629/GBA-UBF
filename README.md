@@ -22,7 +22,7 @@ This is the Dataset of the **Greater Bay Area Urban Building Function** (**GBA-U
 </p>
 
 ## Dataset Download
-Please enjoy this dataset we have provided. Click [here](demo/) to view one examples of the study aera in Guangzhou.
+Please enjoy this dataset we have provided. Click [here](demo/) to view one examples of the study area in Guangzhou.
 
 ## Dataset structure
 ````
